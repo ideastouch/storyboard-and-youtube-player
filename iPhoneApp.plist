@@ -26,8 +26,6 @@
 	<true/>
 	<key>Main storyboard file base name</key>
 	<string>MainStoryboard_iPhone</string>
-	<key>UIMainStoryboardFile</key>
-	<string>MainStoryboard_iPhone</string>
 	<key>UIPrerenderedIcon</key>
 	<true/>
 </dict>
